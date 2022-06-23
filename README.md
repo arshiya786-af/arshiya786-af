@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 📝 I regularly write articles on [https://medium.com/@arshiyamoin99,https://tealfeed.com/arshiya_237489](https://medium.com/@arshiyamoin99,https://tealfeed.com/arshiya_237489)
+- 📝 I regularly write articles on [https://medium.com/@arshiyamoin99   <br>   https://tealfeed.com/arshiya_237489](https://medium.com/@arshiyamoin99,https://tealfeed.com/arshiya_237489)
 
 - 💬 Ask me about **FrontEnd**
 
