@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshiya786-af&show_icons=true&locale=en" alt="arshiya786-af" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiya786-af&" alt="arshiya786-af" /></p>
-<a href="https://github.com/saradhii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saradhii&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
  
 
