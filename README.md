@@ -37,6 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshiya786-af&show_icons=true&locale=en" alt="arshiya786-af" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshiya786-af&" alt="arshiya786-af" /></p>
+<a href="http://www.github.com/arshiya786-af"><img src="https://activity-graph.herokuapp.com/graph?username=arshiya786-af&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
  
