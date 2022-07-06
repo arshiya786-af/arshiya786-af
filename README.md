@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/arshiyamoin1" target="blank"><img src="https://img.shields.io/twitter/follow/arshiyamoin1?logo=twitter&style=for-the-badge" alt="arshiyamoin1" /></a> </p>
 
-- 🌱 I’m currently learning **Java Backend**
+- 🌱 I’m currently learning **Java BackEnd**
 
 - 📝 I regularly write articles on [https://tealfeed.com/arshiya_237489](https://tealfeed.com/arshiya_237489)
 
