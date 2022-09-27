@@ -1,7 +1,7 @@
 [![MasterHead](https://www.secplicity.org/wp-content/uploads/2018/03/iStock-843534370.jpg)
 <h1 align="center">Hi 👋, I'm Arshiya Moin</h1>
 <h3 align="center">A passionate frontend Developer,java Backend Developer from India</h3>
-<h1>I'm an Individual with a proven ability to work ina collaborative and dynamic environment withintuitive problem-solving skills and the ability totranslatebusiness requirements into technicalsolutions. Looking forward to contributing as aJava Back-end Developer for a reputed firmdriven by technology and values.</h1>
+<p style=color:blue;>I'm an Individual with a proven ability to work ina collaborative and dynamic environment withintuitive problem-solving skills and the ability totranslatebusiness requirements into technicalsolutions. Looking forward to contributing as aJava Back-end Developer for a reputed firmdriven by technology and values.</p>
 <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1217765/screenshots/2791439/typing-girl-sss.gif">
 
 
