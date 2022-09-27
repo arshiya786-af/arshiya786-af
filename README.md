@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm Arshiya Moin</h1>
 <h3 align="center">A passionate frontend Developer,java Backend Developer from India</h3>
 <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1217765/screenshots/2791439/typing-girl-sss.gif">
+<h1>I'm an Individual with a proven ability to work in
+a collaborative and dynamic environment with
+intuitive problem-solving skills and the ability to
+translate business requirements into technical
+solutions. Looking forward to contributing as a
+Java Back-end Developer for a reputed firm
+driven by technology and values.</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiya786-af&label=Profile%20views&color=0e75b6&style=flat" alt="arshiya786-af" /> </p>
