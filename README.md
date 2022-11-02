@@ -1,5 +1,7 @@
 [![MasterHead](https://www.secplicity.org/wp-content/uploads/2018/03/iStock-843534370.jpg)
-<h1 align="center">Hi 👋, I'm Arshiya Moin</h1>
+<h1 align="center">Hi , I'm Shubham Verma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+  <a href="https://arshiya786-af.github.io/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 <h3 align="center">A passionate frontend Developer,java Backend Developer from India</h3>
 <h3 "color:purple;font-family:cursive;">I'm an Individual with a proven ability to work ina collaborative and dynamic environment withintuitive problem-solving skills and the ability totranslatebusiness requirements into technicalsolutions. Looking forward to contributing as aJava Back-end Developer for a reputed firmdriven by technology and values.</h3>
 <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1217765/screenshots/2791439/typing-girl-sss.gif">
