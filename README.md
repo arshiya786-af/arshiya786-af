@@ -27,9 +27,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arshiya-moin-b533081b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arshiya-moin-b533081b4/" height="30" width="40" /></a>
 <a href="https://instagram.com/arshiya_moin7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arshiya_moin7" height="30" width="40" /></a>
 <a href="https://medium.com/@arshiyamoin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arshiyamoin99" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arshiyamoin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arshiyamoin99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/arshiyamoin99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arshiyamoin99/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arshiyamoin99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arshiyamoin99" height="30" width="40" /></a>
+
 </p>
 ## Github Profile View Count:- <img align="right" src="https://profile-counter.glitch.me/arshiya786-af/count.svg" />
 
