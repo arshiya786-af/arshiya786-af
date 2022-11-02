@@ -1,5 +1,7 @@
-[![MasterHead](https://www.secplicity.org/wp-content/uploads/2018/03/iStock-843534370.jpg)
+
+# 💫About Me :
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Arshiya Moin<img 
+                                                                                                                               <br>
 
   <a href="https://arshiya786-af.github.io/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 <h3 align="center">A passionate frontend Developer,java Backend Developer from India</h3>
