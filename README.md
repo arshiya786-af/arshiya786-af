@@ -1,5 +1,5 @@
 [![MasterHead](https://www.secplicity.org/wp-content/uploads/2018/03/iStock-843534370.jpg)
-<h1 align="center">Hi , I'm Arshiya Moin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">Hisrc="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" , I'm Arshiya Moin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
   <a href="https://arshiya786-af.github.io/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=Teal&logo=tmux&logoColor=teal&label=" alt="Lybrate" /></a> 
 <h3 align="center">A passionate frontend Developer,java Backend Developer from India</h3>
@@ -30,6 +30,8 @@
 
 </p>
 ## Github Profile View Count:- <img align="right" src="https://profile-counter.glitch.me/arshiya786-af/count.svg" />
+  # 💻Tech Stack
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshiya786-af&show_icons=true&locale=en&layout=compact" alt="arshiya786-af" /></p>
 
