@@ -7,9 +7,7 @@
 <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1217765/screenshots/2791439/typing-girl-sss.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshiya786-af&label=Profile%20views&color=0e75b6&style=flat" alt="arshiya786-af" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshiya786-af" alt="arshiya786-af" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arshiyamoin1" target="blank"><img src="https://img.shields.io/twitter/follow/arshiyamoin1?logo=twitter&style=for-the-badge" alt="arshiyamoin1" /></a> </p>
 
